@@ -16,6 +16,8 @@ Web Development:
 <!-- <code><img height="35" src="https://www.servernoobs.com/wp-content/uploads/2016/01/mongodb-logo-1.png"></code> -->
 <code><img height="35" src="https://cdn.freebiesupply.com/logos/thumbs/2x/nodejs-1-logo.png"></code>
 <code><img height="35" src="https://www.metaltoad.com/sites/default/files/styles/large_personal_photo_870x500_/public/2020-05/react-js-blog-header.png?itok=VbfDeSgJ"></code>
+<code><img height="35" src="https://www.gstatic.com/devrel-devsite/prod/v8384ce39f720e001fb8bd2a6f94b1084300273daaf700bffd864da68ae2d9c21/firebase/images/touchicon-180.png"></code>
+<code><img height="35" src="https://ajeetchaulagain.com/static/7cb4af597964b0911fe71cb2f8148d64/87351/express-js.png"></code>
 <!-- <code><img height="35" src="https://openjsf.org/wp-content/uploads/sites/84/2019/10/jquery-logo-vertical_large_square.png"></code> -->
 <!-- add firebase and express -->
 <br>

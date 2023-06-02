@@ -26,7 +26,7 @@ Environments:
 <br>
 <br>
 <h2> Recent Work and Projects: </h2> 
-<p> Here is a brisk look into some of the work I do with a link to my <b> <a href=""> RESUME </a>  </b> </p>
+<p> Here is a brisk look into some of the work I do with a link to my <b> <a href="https://forge.directory/resumes/Jay-Patel"> RESUME </a>  </b> </p>
 
 
 <h2> Let's Collaborate: </h2> 

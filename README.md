@@ -1,7 +1,9 @@
 ### Hi there 👋
 
-<img align="left" width="150" height="150" src="https://github.com/jrp9pte/jrp9pte/blob/main/Unknown-2.png"> <br> 😄 <b> About ME </b>: I am a Echols Scholar and Student at University of Virginia. Here I am studying Computer Science and Biology
+<img align="left" width="150" height="150" src="https://github.com/jrp9pte/jrp9pte/blob/main/Unknown-2.png"> <br> 😄 <b> About ME </b>: I am a Echols Scholar and Student at University of Virginia. Here I am double majoring in Computer Science and Biology
+<b> </b>
 
+⚡ <b> Quick (Fun?) Facts </b>: I started a club at UVA about mental health, I am an EMT, and I enjoy woodworking in my free time.
 
 <br>
 <br>

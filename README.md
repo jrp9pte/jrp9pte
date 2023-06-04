@@ -1,7 +1,12 @@
 ### Hi there 👋
 
+<img align="left" width="150" height="150" src="https://github.com/jrp9pte/jrp9pte/blob/main/Unknown-2.png"> <br> 😄 <b> About ME </b>: I am a Echols Scholar and Student at University of Virginia. Here I am studying Computer Science and Biology
 
+
+<br>
+<br>
 <h2> Tech Stack: (always growing) </h2> 
+<!-- <img align="right" width="120" height="120" src="https://i.imgur.com/VbOurdi.gif">  -->
 Software: 
 <code><img height="35" src="https://cdn.iconscout.com/icon/free/png-512/java-23-225999.png"></code>
 <code><img height="35" src="https://seeklogo.com/images/P/python-logo-C50EED1930-seeklogo.com.png"></code>

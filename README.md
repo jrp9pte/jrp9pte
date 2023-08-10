@@ -35,7 +35,7 @@ Environments:
 <br>
 <br>
 <h2> Recent Work and Projects: </h2> 
-<p> Here is a brisk look into some of the work I do with a link to my <b> <a href="https://forge.directory/resumes/Jay-Patel"> Forge Resume Page </a> as well as a PDF <a href="https://github.com/jrp9pte/jrp9pte/blob/main/Jay_Patel_Resume_Internship.pdf"> RESUME </a> </b> </p>
+<p> Here is a brisk look into some of the work I do with a link to my <b> <a href="https://github.com/jrp9pte/jrp9pte/blob/main/Jay_Patel_Resume_Internship.pdf"> RESUME </a> </b> </p>
 
 
 

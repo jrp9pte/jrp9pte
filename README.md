@@ -43,7 +43,7 @@ Environments:
 
 <img align="right" width="150" height="150" src="https://github.com/jrp9pte/jrp9pte/assets/113056504/62b1698d-b94a-4b8f-85bc-528b1e09d172">  <p> Whether we work with same technologies or different ones, I am always Down-to-Collaborate, and <b> learn new skills </b>. Please feel free to reach out and connect: </p>
 <p> <ul>  <li> Send me an <a href="mailto:jrp9pte@virginia.edu"> Email </a> </li> 
- <li> Connect with me on <a href="https://www.linkedin.com/in/jaypatel-uva/"> Linkedin </a> </li>  
+ <li> Connect with me on <a href="https://www.linkedin.com/in/jayp-uva/"> Linkedin </a> </li>  
  <li> Feel free to build on any of my repositories down below 👇🏽 </li></ul></p>
 <!-- <p> Here is a brisk look into some of the work I do with a link to my <b>
 - 🔭 I’m currently working on ...
